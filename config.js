@@ -30,7 +30,7 @@ const CONFIG = {
         second: {
             text: "O quanto vc me ama?",                          // For the love meter
             startText: "Esse tanto ó",                                   // Text before the percentage
-            nextBtn: "Sigam-me os bons ❤️"                                         // Text for the next button
+            nextBtn: "HMMMMMM 👀"                                         // Text for the next button
         },
         third: {
             text: "Deseja ser minha Valentim agora em 2026 (e para sempre)? 🌹", // The big question!
@@ -43,8 +43,8 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "UUUUUUAU ME AMA TANTO ASSIM?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "AO INFINITO E ALÉM! 🚀💝",              // Shows when they go past 1000%
-        normal: "E ALÉM ATÉ ONDE? 😲🥰"                           // Shows when they go past 100%
+        high: "E ALÉM ATÉ ONDE? 😲🥰",              // Shows when they go past 1000%
+        normal: "AO INFINITO E ALÉM! 🚀💝"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://music.youtube.com/watch?v=6ruUyZ-cU80&si=-VbHDO3hUpKg-LI3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dyn4wqfok/video/upload/v1771023756/Laufey_-_I_Wish_You_Love_Official_Audio_128KBPS_g4u8mg.mp4", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
